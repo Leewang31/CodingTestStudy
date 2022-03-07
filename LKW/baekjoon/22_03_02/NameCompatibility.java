@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Vector;
 
-public class BJ15312 {
+public class Main {
     public static void main(String[] args) {
         int[] n = {3, 2, 1, 2, 3, 3, 2, 3, 3, 2, 2, 1,
                 2, 2, 1, 2, 2, 2, 1, 2, 1, 1, 1, 2, 2, 1};
