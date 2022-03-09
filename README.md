@@ -5,7 +5,12 @@
 ## ✅ 일정
 |주차|기간|내용|진행상황|
 |:--:|:--:|:--:|:--:|
-|cell1|cell2|cell3|![status][TODO]|
+|1주차|03.02~03.08|백준 4문제|![status][DOING]|
+
+## ✅ 주차별 풀이 문제
+|주차|문제|출처|난이도|
+|:--:|:--:|:--:|:--:|
+|1주차|2839, 9625, 13301, 15312|백준 DP|Bronze 1|
 
 ## ✅ 협업 툴
 - GitHub
@@ -21,18 +26,14 @@
     - 추후 다시 풀어보기
 
 ## ✅ commit 규칙
-- commit 메세지: [문제 출처(플랫폼)] 문제이름 / 난이도 / 걸린시간 
+- commit 메세지: [문제 출처(플랫폼)] 문제이름 / 걸린시간 
 - 플랫폼 작성법 통일: 
   * [BOJ] - 백준 
   * [PGS] - 프로그래머스
-<br />
-<br />
 
 ## ✅ PR 규칙
 - PR 제목: 이름 / 주차 / 몇 문제
 -  ```hongseok Ju / 3월 1주차 / 4문제 ```
-<br />
-<br />
 
 ## ✅ 온라인 저지 
 - 프로그래머스
@@ -48,6 +49,33 @@
             <br />
             <sub><b>HongSeok</b>
             <br>
+            <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/4" />
+            </sub>
+        </a>
+        <br/>
+    </td>
+    <td>
+      </td>
+    <td align="center">
+        <a href="https://github.com/Leewang31">
+            <img src="https://avatars.githubusercontent.com/u/75611167?v=4" width="100px;" alt=""/>
+            <br />
+            <sub><b>KiWang</b>
+            <br>
+            <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0" />
+            </sub>
+        </a>
+        <br/>
+    </td>
+      </td>
+    <td>
+      </td>
+    <td align="center">
+        <a href="https://github.com/HwangInHo1217">
+            <img src="https://avatars.githubusercontent.com/u/75611167?v=4" width="100px;" alt=""/>
+            <br />
+            <sub><b>InHo</b>
+            <br>
             <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0" />
             </sub>
         </a>
@@ -59,4 +87,3 @@
 [TODO]: https://img.shields.io/badge/-TODO-DFFD26
 [DOING]: https://img.shields.io/badge/-DOING-31AE0F
 [DONE]: https://img.shields.io/badge/-DONE-0885CC
-# CodingTestStudy
