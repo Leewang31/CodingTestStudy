@@ -5,12 +5,14 @@
 ## ✅ 일정
 |주차|기간|내용|진행상황|
 |:--:|:--:|:--:|:--:|
-|1주차|03.02~03.08|백준 4문제|![status][DOING]|
+|1주차|03.02~03.08|백준 4문제|![status][DONE]|
+|2주차|03.09~03.15|백준 5문제|![status][DOING]|
 
 ## ✅ 주차별 풀이 문제
 |주차|문제|출처|난이도|
 |:--:|:--:|:--:|:--:|
 |1주차|2839, 9625, 13301, 15312|백준 DP|Bronze 1|
+|2주차|16173, 1388, 2606, 14562, 15270|백준 DP|Silver 3,4,5|
 
 ## ✅ 협업 툴
 - GitHub
@@ -62,7 +64,7 @@
             <br />
             <sub><b>KiWang</b>
             <br>
-            <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0" />
+            <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/4" />
             </sub>
         </a>
         <br/>
@@ -76,7 +78,7 @@
             <br />
             <sub><b>InHo</b>
             <br>
-            <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0" />
+            <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/3" />
             </sub>
         </a>
         <br/>
