@@ -1,3 +1,4 @@
+
 ---
 
 # 💯 자바 알고리즘 및 코딩 테스트 문제 풀이 
@@ -48,7 +49,7 @@
   <tr>
     <td align="center">
         <a href="https://github.com/wnghdtjr129">
-            <img src="https://avatars.githubusercontent.com/u/75611167?v=4" width="100px;" alt=""/>
+            <img src="https://avatars.githubusercontent.com/wnghdtjr129?v=4" width="100px;" alt=""/>
             <br />
             <sub><b>HongSeok</b>
             <br>
@@ -61,7 +62,7 @@
       </td>
     <td align="center">
         <a href="https://github.com/Leewang31">
-            <img src="https://avatars.githubusercontent.com/u/75611167?v=4" width="100px;" alt=""/>
+            <img src="https://avatars.githubusercontent.com/Leewang31?v=4" width="100px;" alt=""/>
             <br />
             <sub><b>KiWang</b>
             <br>
@@ -75,7 +76,7 @@
       </td>
     <td align="center">
         <a href="https://github.com/HwangInHo1217">
-            <img src="https://avatars.githubusercontent.com/u/75611167?v=4" width="100px;" alt=""/>
+            <img src="https://avatars.githubusercontent.com/HwangInHo1217?v=4" width="100px;" alt=""/>
             <br />
             <sub><b>InHo</b>
             <br>
