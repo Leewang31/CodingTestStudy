@@ -15,7 +15,7 @@ public class Name {
         Vector<Integer> result = new Vector<Integer>();
         Vector<Integer> tp = new Vector<Integer>();
 
-//        StringBuilder sb = new StringBuilder();
+        StringBuilder sb = new StringBuilder();
 
         for (int i = 0; i < A.length(); i++) {
             result.add(n[A.charAt(i) - 'A']);
@@ -29,7 +29,7 @@ public class Name {
             for (int x = 0; x < tp.size(); x++)
                 result.add(tp.get(x));
             tp.clear();
-            if (result.size() == 2) {
+            if (result.size() ==2) {
                 System.out.println(result.get(0) + "" + result.get(1));
                 return;
             }
