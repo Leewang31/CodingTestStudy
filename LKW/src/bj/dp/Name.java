@@ -15,7 +15,7 @@ public class Name {
         Vector<Integer> result = new Vector<Integer>();
         Vector<Integer> tp = new Vector<Integer>();
 
-//        StringBuilder sb = new StringBuilder();
+        StringBuilder sb = new StringBuilder();
 
         for (int i = 0; i < A.length(); i++) {
             result.add(n[A.charAt(i) - 'A']);
