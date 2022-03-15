@@ -2,7 +2,7 @@ package bj.dp;
 
 import java.util.Scanner;
 
-public class Sugar {
+public class Sugar { 
 
     public static final int FIRST_NUM = 3;
     public static final int SECOND_NUM = 5;
