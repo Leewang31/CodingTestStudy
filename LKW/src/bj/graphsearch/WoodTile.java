@@ -16,9 +16,11 @@ public class WoodTile {
             row = r;
             col = c;
         }
+
         int col;
         int row;
     }
+    
     public static void main(String[] args) {
         int cnt = 0;
         Scanner sc = new Scanner(System.in);
@@ -48,20 +50,19 @@ public class WoodTile {
     public static void bfs(int r, int c) {
         Queue<Point> Q = new LinkedList<>();
         Q.add(new Point(r, c));
-        int idx = board[r][c] == '-'? 2 : 0;
+        int idx = board[r][c] == '-' ? 2 : 0;
         char check = board[r][c];
-        board[r][c] ='X';
+        board[r][c] = 'X';
         while (!Q.isEmpty()) {
             Point curr = Q.poll();
-            for (int i=idx;i<idx+2;i++){
+            for (int i = idx; i < idx + 2; i++) {
                 int nr = curr.row + dr[i];
                 int nc = curr.col + dc[i];
 
-                if(nr < 0 || nr >= N || nc < 0 || nc >= M || board[nr][nc] == 'X') continue;
-                if(board[nr][nc] == check)
-                {
+                if (nr < 0 || nr >= N || nc < 0 || nc >= M || board[nr][nc] == 'X') continue;
+                if (board[nr][nc] == check) {
                     board[nr][nc] = 'X';
-                    Q.add(new Point(nr,nc));
+                    Q.add(new Point(nr, nc));
                 }
             }
         }
