@@ -68,7 +68,7 @@
             <br />
             <sub><b>KiWang</b>
             <br>
-            <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/4" />
+            <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/9" />
             </sub>
         </a>
         <br/>
@@ -82,7 +82,7 @@
             <br />
             <sub><b>InHo</b>
             <br>
-            <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/3" />
+            <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/8" />
             </sub>
         </a>
         <br/>
