@@ -12,7 +12,7 @@ public class BigNum {
         N = sc.nextInt();
         M = sc.nextInt();
         a = new int[M];
-        int cnt =0;
+        int cnt = 0;
         for (int x = 0; x < M; x++)
             a[x] = sc.nextInt();
         int[] num = new int[a.length * a.length * a.length];
