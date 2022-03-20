@@ -17,7 +17,7 @@ public class BigNum {
             a[x] = sc.nextInt();
         int[] num = new int[a.length * a.length * a.length];
         if (M == 3) {
-            for (int x = 0; x < 3; x++)
+            for (int x = 0; x < 3; x++)  
                 for (int y = 0; y < 3; y++)
                     for (int z = 0; z < 3; z++) {
                         num[cnt] = a[x] * 100 + a[y] * 10 + a[z];
