@@ -11,7 +11,7 @@ public class BigNum {
         Scanner sc = new Scanner(System.in);
         N = sc.nextInt();
         M = sc.nextInt();
-        a = new int[M];
+        a = new int[M]; 
         int cnt = 0;
         for (int x = 0; x < M; x++)
             a[x] = sc.nextInt();
