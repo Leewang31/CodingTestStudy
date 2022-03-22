@@ -7,7 +7,7 @@ public class Star {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        size = sc.nextInt();
+        size = sc.nextInt( );
         String star[][] = new String[1][1];
         star[0][0]="*";
         if(size ==0){
