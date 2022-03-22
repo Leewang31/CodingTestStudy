@@ -11,7 +11,7 @@ public class Hanoi {
         System.out.println(cnt);
         if(cnt<20){
             hanoi(N, 1, 3, 2);
-        }
+        } 
     }
     private static void hanoical(int n, int start, int end, int sub) {
         if (n == 1) {
