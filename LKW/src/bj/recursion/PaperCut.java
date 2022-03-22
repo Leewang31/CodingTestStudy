@@ -10,7 +10,7 @@ public class PaperCut {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int size = sc.nextInt();
+        int size = sc.nextInt( );
         arr = new int[size][size];
         for (int i = 0; i < size; i++)
             for (int j = 0; j < size; j++)
