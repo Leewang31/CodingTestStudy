@@ -1,3 +1,4 @@
+
 ---
 
 # 💯 자바 알고리즘 및 코딩 테스트 문제 풀이 
@@ -5,12 +6,16 @@
 ## ✅ 일정
 |주차|기간|내용|진행상황|
 |:--:|:--:|:--:|:--:|
-|1주차|03.02~03.08|백준 4문제|![status][DOING]|
+|1주차|03.02~03.08|백준 4문제|![status][DONE]|
+|2주차|03.09~03.15|백준 5문제|![status][DONE]|
+|3주차|03.16~03.22|백준 5문제|![status][DOING]|
 
 ## ✅ 주차별 풀이 문제
 |주차|문제|출처|난이도|
 |:--:|:--:|:--:|:--:|
-|1주차|2839, 9625, 13301, 15312|백준 DP|Bronze 1|
+|1주차|~~2839, 9625, 13301, 15312~~|백준 DP|Bronze 1|
+|2주차|~~16173, 1388, 2606, 14562, 15270~~|백준 DSF BFS|Silver 3..5|
+|3주차|18511, 2630, 16505, 24460, 1780, 1914|백준 재귀|Silver 2..5|
 
 ## ✅ 협업 툴
 - GitHub
@@ -27,6 +32,7 @@
 
 ## ✅ commit 규칙
 - commit 메세지: [문제 출처(플랫폼)] 문제이름 / 걸린시간 
+- 해결 못한 문제 : [문제 출처(플랫폼)] 문제이름 / Retry 
 - 플랫폼 작성법 통일: 
   * [BOJ] - 백준 
   * [PGS] - 프로그래머스
@@ -45,11 +51,11 @@
   <tr>
     <td align="center">
         <a href="https://github.com/wnghdtjr129">
-            <img src="https://avatars.githubusercontent.com/u/75611167?v=4" width="100px;" alt=""/>
+            <img src="https://avatars.githubusercontent.com/wnghdtjr129?v=4" width="100px;" alt=""/>
             <br />
             <sub><b>HongSeok</b>
             <br>
-            <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/4" />
+            <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/9" />
             </sub>
         </a>
         <br/>
@@ -58,11 +64,11 @@
       </td>
     <td align="center">
         <a href="https://github.com/Leewang31">
-            <img src="https://avatars.githubusercontent.com/u/75611167?v=4" width="100px;" alt=""/>
+            <img src="https://avatars.githubusercontent.com/Leewang31?v=4" width="100px;" alt=""/>
             <br />
             <sub><b>KiWang</b>
             <br>
-            <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0" />
+            <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/9" />
             </sub>
         </a>
         <br/>
@@ -72,11 +78,11 @@
       </td>
     <td align="center">
         <a href="https://github.com/HwangInHo1217">
-            <img src="https://avatars.githubusercontent.com/u/75611167?v=4" width="100px;" alt=""/>
+            <img src="https://avatars.githubusercontent.com/HwangInHo1217?v=4" width="100px;" alt=""/>
             <br />
             <sub><b>InHo</b>
             <br>
-            <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0" />
+            <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/8" />
             </sub>
         </a>
         <br/>
