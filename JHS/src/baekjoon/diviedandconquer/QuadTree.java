@@ -3,6 +3,7 @@ package baekjoon.diviedandconquer;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.stream.IntStream;
 
 public class QuadTree {
 
@@ -42,14 +43,8 @@ public class QuadTree {
     }
 
     private static boolean check(int x, int y, int size) {
-        int flag = arr[x][y];
-
-        for (int i = x; i < x+size; i++) {
-            for (int j = y; j < y+size; j++) {
-                if(arr[i][j] != flag)
-                    return false;
-            }
-        }
-        return true;
+        return IntStream.range(x, x + size)
+                .noneMatch(i -> IntStream.range(y, y + size)
+                        .anyMatch(j -> arr[i][j] != arr[x][y]));
     }
 }
