@@ -15,7 +15,7 @@ public class ThueMorse {
         N = Double.parseDouble(reader.readLine());
         list = new ArrayList<>();
         tp = new ArrayList<>();
-        thusmorse(0);
+        thusmorse(0  );
         System.out.println(list.get((int)N));
     }
 
