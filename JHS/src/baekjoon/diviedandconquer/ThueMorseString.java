@@ -4,8 +4,6 @@ import java.util.Scanner;
 
 public class ThueMorseString {
 
-    private static long[] arr;
-
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         long k = scanner.nextLong();
