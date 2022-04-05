@@ -2,6 +2,7 @@ package bj.divide;
 
 import java.util.Scanner;
 
+//시간초과 걸림
 public class NearSpot {
     private static int[][] arr;
     private static int min;
