@@ -10,8 +10,8 @@
 |2주차|03.09~03.15|백준 5문제|![status][DONE]|
 |3주차|03.16~03.22|백준 6문제|![status][DONE]|
 |4주차|03.23~03.29|백준 8문제|![status][DONE]|
-|5주차|03.30~04.05|백준 5문제|![status][DONE]|
-|6주차|04.06~04.12|백준 5문제|![status][DOING]|
+|5주차|03.30~04.05|백준 7문제|![status][DONE]|
+|6주차|04.06~04.12|백준 7문제|![status][DOING]|
 
 
 ## ✅ 주차별 풀이 문제
@@ -20,9 +20,9 @@
 |1주차|~~2839, 9625, 13301, 15312~~|백준 DP|Bronze 1|
 |2주차|~~16173, 1388, 2606, 14562, 15270~~|백준 DSF BFS|Silver 3..5|
 |3주차|~~18511, 2630, 16505, 24460, 1780, 1914~~|백준 재귀|Silver 2..5|
-|4주차|~~11723 3085 15656 14501 10974 2529 14889 14500~~|백준 완전탐색|Gold5...Silver5|
-|5주차|~~18222 1992 1074 14600 21870~~|백준 분할정복|Gold5...Silver3|
-|6주차|6236 2792 2343 22871 2110 1939 9007|백준 분할정복|Gold3...Silver2|
+|4주차|~~11723 3085 15656 14501 10974 2529 14889 14500~~|백준 완전탐색|Silver5...Gold5|
+|5주차|~~18222 1992 1074 14600 21870 14601 2261~~|백준 분할정복|Silver3...Gold5|
+|6주차|6236 2792 2343 22871 2110 1939 9007|백준 이분탐색|Silver2...Gold3|
 
 
 ## ✅ 협업 툴
@@ -63,7 +63,7 @@
             <br />
             <sub><b>HongSeok</b>
             <br>
-            <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/23" />
+            <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/30" />
             </sub>
         </a>
         <br/>
@@ -76,7 +76,7 @@
             <br />
             <sub><b>KiWang</b>
             <br>
-            <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/20" />
+            <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/26" />
             </sub>
         </a>
         <br/>
@@ -90,7 +90,7 @@
             <br />
             <sub><b>InHo</b>
             <br>
-            <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/15" />
+            <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/18" />
             </sub>
         </a>
         <br/>
