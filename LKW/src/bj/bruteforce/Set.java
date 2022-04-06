@@ -1,8 +1,6 @@
 package bj.bruteforce;
 
 
-import com.sun.deploy.security.SelectableSecurityManager;
-
 import java.util.Scanner;
 
 public class Set {
