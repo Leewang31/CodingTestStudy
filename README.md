@@ -11,7 +11,7 @@
 |3주차|03.16~03.22|백준 6문제|![status][DONE]|
 |4주차|03.23~03.29|백준 8문제|![status][DONE]|
 |5주차|03.30~04.05|백준 7문제|![status][DONE]|
-|6주차|04.06~04.12|백준 7문제|![status][DOING]|
+|6주차|04.06~04.12|백준 6문제|![status][DONE]|
 
 
 ## ✅ 주차별 풀이 문제
@@ -22,7 +22,7 @@
 |3주차|~~18511, 2630, 16505, 24460, 1780, 1914~~|백준 재귀|Silver 2..5|
 |4주차|~~11723 3085 15656 14501 10974 2529 14889 14500~~|백준 완전탐색|Silver5...Gold5|
 |5주차|~~18222 1992 1074 14600 21870 14601 2261~~|백준 분할정복|Silver3...Gold5|
-|6주차|6236 2792 2343 22871 2110 1939 9007|백준 이분탐색|Silver2...Gold3|
+|6주차|~~6236 2792 2343 22871 2110 1939 9007~~|백준 이분탐색|Silver2...Gold3|
 
 
 ## ✅ 협업 툴
@@ -63,7 +63,7 @@
             <br />
             <sub><b>HongSeok</b>
             <br>
-            <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/30" />
+            <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/34" />
             </sub>
         </a>
         <br/>
@@ -76,7 +76,7 @@
             <br />
             <sub><b>KiWang</b>
             <br>
-            <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/26" />
+            <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/28" />
             </sub>
         </a>
         <br/>
