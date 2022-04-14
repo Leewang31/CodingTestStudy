@@ -28,15 +28,15 @@ public class DragonMoney {
         int ck = check(mid);
         if (ck == M) {
             result = Math.max(result, mid);
-            binary(min, mid);
+            binary(min, mid-1);
             return;
         }
         if (ck > M) {
-            binary(mid, max);
+            binary(mid+1, max);
             return;
         }
         if (ck < M) {
-            binary(min, mid);
+            binary(min, mid-1);
             return;
         }
     }

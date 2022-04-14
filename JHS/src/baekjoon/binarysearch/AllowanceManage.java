@@ -4,6 +4,8 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
+import java.util.HashMap;
+import java.util.List;
 import java.util.StringTokenizer;
 
 public class AllowanceManage {
@@ -27,7 +29,7 @@ public class AllowanceManage {
             min = Math.max(allowances[i], min);
             max += allowances[i];
         }
-
+//        solve(Arrays.stream(allowances).min().getAsInt(), Arrays.stream(allowances).sum());
         System.out.println(solve(min, max));
     }
 

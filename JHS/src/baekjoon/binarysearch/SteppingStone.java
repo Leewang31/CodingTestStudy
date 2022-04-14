@@ -34,8 +34,6 @@ public class SteppingStone {
             dp[0] = true;
 
             for (int i = 0; i < n; i++) {
-                if (dp[n-1])
-                    break;
                 if (dp[i]) {
                     for (int j = i+1; j < n; j++) {
                         long l = (j - i) * (1 + Math.abs(arr[i] - arr[j]));

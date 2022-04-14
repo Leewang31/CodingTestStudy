@@ -50,6 +50,15 @@ public class Canoe {
         Arrays.sort(sum1);
         Arrays.sort(sum2);
 
+        for (int i : sum1) {
+            System.out.print(i + " ");
+        }
+
+        System.out.println();
+        for (int i : sum2) {
+            System.out.print(i + " ");
+        }
+
         System.out.println();
         int index1 = 0;
         int index2 = n * n - 1;
