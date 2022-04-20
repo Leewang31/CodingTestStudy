@@ -12,8 +12,7 @@
 |4주차|03.23~03.29|백준 8문제|![status][DONE]|
 |5주차|03.30~04.05|백준 7문제|![status][DONE]|
 |6주차|04.06~04.12|백준 6문제|![status][DONE]|
-|7주차|04.13~04.19|프로그래머스 4문제|![status][DOING]|
-
+|7주차|04.13~04.19|프로그래머스 4문제|![status][DONE]|
 
 ## ✅ 주차별 풀이 문제
 |주차|문제|출처|난이도|
@@ -24,7 +23,7 @@
 |4주차|~~11723 3085 15656 14501 10974 2529 14889 14500~~|백준 완전탐색|Silver5...Gold5|
 |5주차|~~18222 1992 1074 14600 21870 14601 2261~~|백준 분할정복|Silver3...Gold5|
 |6주차|~~6236 2792 2343 22871 2110 1939 9007~~|백준 이분탐색|Silver2...Gold3|
-|7주차|예산 스킬트리 영어끝말잇기 숫자게임|프로그래머스 섬머코딩 2018|level1...level3|
+|7주차|~~예산 스킬트리 영어끝말잇기 숫자게임~~|프로그래머스 섬머코딩 2018|level1...level3|
 
 
 ## ✅ 협업 툴
@@ -65,7 +64,7 @@
             <br />
             <sub><b>HongSeok</b>
             <br>
-            <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/34" />
+            <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/38" />
             </sub>
         </a>
         <br/>
@@ -78,7 +77,7 @@
             <br />
             <sub><b>KiWang</b>
             <br>
-            <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/28" />
+            <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/32" />
             </sub>
         </a>
         <br/>
