@@ -15,29 +15,21 @@ public class SkillTree {
     public static int solution(String skill, String[] skillTree) {
         int answer = 0;
 
-//        answer = firstSolution(skill, skillTree, answer);
-//        return answer;
+        answer = firstSolution(skill, skillTree, answer);
+        return answer;
 
-        List<String> skillTrees = secondSolution(skill, skillTree);
+//        List<String> skillTrees = secondSolution(skill, skillTree);
+//        return skillTrees.size();
+    }
+
+    private static int secondSolution(String skill, String[] skillTree) {
+        List<String> skillTrees = new ArrayList<>(Arrays.asList(skillTree));
+        skillTrees.removeIf(s -> skill.indexOf(s.replaceAll("[^" + skill + "]", "")) != 0);
         return skillTrees.size();
     }
 
-    private static List<String> secondSolution(String skill, String[] skillTree) {
-        List<String> skillTrees = new ArrayList<>(Arrays.asList(skillTree));
-        skillTrees.removeIf(s -> skill.indexOf(s.replaceAll("[^" + skill + "]", "")) != 0);
-        return skillTrees;
-    }
-
     private static int firstSolution(String skill, String[] skillTree, int answer) {
-        char[] skills = skill.toCharArray();
-
-        String pattern = "[";
-        for (char c : skills) {
-            pattern += "^" + c;
-        }
-        pattern += "]";
-
-//        pattern = "[^" + skills.toString() + "]";
+        String pattern = "[^" + skill + "]";
 
         for (String s : skillTree) {
             s = s.replaceAll(pattern, "");
@@ -57,17 +49,5 @@ public class SkillTree {
             }
         }
         return answer;
-    }
-
-    private static String makePattern(char[] skills) {
-        String pattern = "[";
-        for (char c : skills) {
-            pattern += "^" + c;
-        }
-        pattern += "]";
-        return pattern;
-
-
-//        return "[^" + skills.toString() + "]";
     }
 }

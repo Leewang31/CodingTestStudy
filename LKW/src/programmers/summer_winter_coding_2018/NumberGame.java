@@ -13,6 +13,18 @@ public class NumberGame {
         int answer = 0;
         Arrays.sort(A);
         Arrays.sort(B);
+
+        for (int i : A) {
+            System.out.print(i + " ");
+        }
+
+        System.out.println("===================");
+
+        for (int i : B) {
+            System.out.print(i + " ");
+        }
+        System.out.println("===================");
+
         int cnt = 0 ;
         for(int i = 0 ; i< A.length;i++){
             if(cnt == B.length){
@@ -22,12 +34,12 @@ public class NumberGame {
                 if(cnt == B.length-1 ){
                     return answer;
                 }
-                System.out.println("1. cnt : "+cnt);
                 cnt++;
+                System.out.println("1. cnt : "+cnt);
             }
-            System.out.println("2. cnt : "+cnt);
             cnt++;
             answer++;
+            System.out.println("2. cnt : "+cnt);
         }
         return answer;
     }
