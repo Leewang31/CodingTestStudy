@@ -36,9 +36,7 @@ public class Hanoi_tower {
         while(three.size()!=size){
             if(three.firstElement()>stack.firstElement()||three.empty()) {
                 three.push(stack.pop());
-            }
-            else if(two.empty()||stack.firstElement()
-            }
+            }}
 
     }
     public static int find_Min(Stack<Integer> stack,int size){
