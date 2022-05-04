@@ -8,14 +8,25 @@
 |:--:|:--:|:--:|:--:|
 |1주차|03.02~03.08|백준 4문제|![status][DONE]|
 |2주차|03.09~03.15|백준 5문제|![status][DONE]|
-|3주차|03.16~03.22|백준 5문제|![status][DOING]|
+|3주차|03.16~03.22|백준 6문제|![status][DONE]|
+|4주차|03.23~03.29|백준 8문제|![status][DONE]|
+|5주차|03.30~04.05|백준 7문제|![status][DONE]|
+|6주차|04.06~04.12|백준 6문제|![status][DONE]|
+|7주차|04.13~04.19|프로그래머스 4문제|![status][DONE]|
+|9주차|04.27~05.04|프로그래머스 5문제|![status][DOING]|
 
 ## ✅ 주차별 풀이 문제
 |주차|문제|출처|난이도|
 |:--:|:--:|:--:|:--:|
 |1주차|~~2839, 9625, 13301, 15312~~|백준 DP|Bronze 1|
 |2주차|~~16173, 1388, 2606, 14562, 15270~~|백준 DSF BFS|Silver 3..5|
-|3주차|18511, 2630, 16505, 24460, 1780, 1914|백준 재귀|Silver 2..5|
+|3주차|~~18511, 2630, 16505, 24460, 1780, 1914~~|백준 재귀|Silver 2..5|
+|4주차|~~11723 3085 15656 14501 10974 2529 14889 14500~~|백준 완전탐색|Silver5...Gold5|
+|5주차|~~18222 1992 1074 14600 21870 14601 2261~~|백준 분할정복|Silver3...Gold5|
+|6주차|~~6236 2792 2343 22871 2110 1939 9007~~|백준 이분탐색|Silver2...Gold3|
+|7주차|~~예산 스킬트리 영어끝말잇기 숫자게임~~|프로그래머스 섬머코딩 2018|level1...level3|
+|9주차|크레인 인형뽑기게임, 튜플, 불량사용자, 징검다리건너기, 호텔방배정|2019 카카오 개발자 겨울 인턴십|level1...level5|
+
 
 ## ✅ 협업 툴
 - GitHub
@@ -55,7 +66,7 @@
             <br />
             <sub><b>HongSeok</b>
             <br>
-            <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/9" />
+            <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/38" />
             </sub>
         </a>
         <br/>
@@ -68,7 +79,7 @@
             <br />
             <sub><b>KiWang</b>
             <br>
-            <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/9" />
+            <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/32" />
             </sub>
         </a>
         <br/>
@@ -82,7 +93,7 @@
             <br />
             <sub><b>InHo</b>
             <br>
-            <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/8" />
+            <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/18" />
             </sub>
         </a>
         <br/>
