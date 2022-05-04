@@ -1,4 +1,5 @@
 package programmers.summer_winter_coding_2018;
+
 import java.util.Arrays;
 
 public class Budget {
@@ -12,8 +13,8 @@ public class Budget {
         int answer = 0;
         Arrays.sort(d);
         for (int i = 0; i < d.length; i++) {
-            budget -=d[i];
-            if (budget<0) return answer;
+            budget -= d[i];
+            if (budget < 0) return answer;
             answer++;
         }
         return d.length;
