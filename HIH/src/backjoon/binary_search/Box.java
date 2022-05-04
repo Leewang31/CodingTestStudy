@@ -1,8 +1,12 @@
-package backjoon.four;
+package backjoon.binary_search;
 import java.util.Scanner;
-public class Quad_core {
+public class Box {
+
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-        int n=sc.nextInt();
+        int n,m;
+        n=sc.nextInt();
+        n=sc.nextInt();
+
     }
 }
