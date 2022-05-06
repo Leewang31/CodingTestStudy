@@ -1,4 +1,4 @@
-package backjoon.programmers;
+package programmers;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
@@ -22,9 +22,9 @@ public class Budget {
         Collections.sort(d);
         for(int i=0;i<size;i++){
             try{
-            budget-=d.get(i);
-            cnt++;
-            if(budget<d.get(i+1)) break;
+                budget-=d.get(i);
+                cnt++;
+                if(budget<d.get(i+1)) break;
             }catch (IndexOutOfBoundsException e){
                 continue;
             }

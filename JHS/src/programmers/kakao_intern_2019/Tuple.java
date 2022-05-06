@@ -7,23 +7,26 @@ import java.util.regex.Pattern;
 public class Tuple {
     public static void main(String[] args) {
         String s = "{{2},{2,1},{2,1,3},{2,1,3,4}}";
-//        int[] solution = solution(s);
+        int[] solution = solution(s);
 //        for (int integer : solution) {
 //            System.out.print(integer + ", ");
 //        }
 
 //        solution1(s);
-        solution2(s);
+//        solution2(s);
     }
 
     private static int[] solution(String s) {
-        String[] splits = s.substring(1, s.length() - 2).split("},");
+        String[] splits = s.substring(2, s.length() - 2).split("},\\{");
         Arrays.sort(splits,(o1, o2) -> o1.length() - o2.length());
 
+        for (String split : splits) {
+            System.out.println("split = " + split);
+        }
         List<Integer> answer = new ArrayList<>();
 
         for (String split : splits) {
-            split = split.replace("{", "");
+//            split = split.replace("{", "");
             System.out.println(split);
 
             String[] split2 = split.split(",");
