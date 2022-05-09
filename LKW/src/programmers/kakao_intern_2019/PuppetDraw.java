@@ -8,12 +8,7 @@ public class PuppetDraw {
                 , {4, 2, 4, 4, 2}, {3, 5, 1, 3, 1}};
         int[] moves = {1, 5, 3, 5, 1, 2, 1, 4};
         System.out.println(Solution(board, moves));
-        for (int i =0 ;i<5;i++){
-            for (int j =0 ;j<5;j++){
-                System.out.print(board[i][j]+" ");
-            }
-            System.out.println();
-        }
+
 }
 
     private static int Solution(int[][] board, int[] moves) {
