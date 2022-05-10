@@ -1,4 +1,4 @@
-package backjoon.programmers;
+package programmers;
 import java.util.ArrayList;
 import java.util.Scanner;
 public class Tuple {
@@ -18,8 +18,9 @@ public class Tuple {
         }
         for(int i=0;i<s.size();i++) {
             for (int j = 0; j < s.get(i).length(); j++) {
-                if (!result.contains((s.get(i).charAt(j)) ) {
-                    result += s.get(i).split(",");
+                //if (!result.contains((s.get(i).charAt(j)) )
+                {
+               //     result += s.get(i).split(",");
                 }
             }
         }

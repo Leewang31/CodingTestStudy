@@ -1,4 +1,4 @@
-package backjoon.programmers;
+package programmers;
 import java.util.ArrayList;
 import java.util.Scanner;
 public class Num_game {

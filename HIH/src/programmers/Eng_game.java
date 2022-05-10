@@ -1,5 +1,4 @@
-package backjoon.programmers;
-import java.util.Arrays;
+package programmers;
 import java.util.Scanner;
 public class Eng_game {
     public static void main(String[] args) {
