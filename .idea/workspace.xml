@@ -6,17 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="14177674-91e4-4d83-97be-f3a28f44b4d1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HIH/src/backjoon/programmers/Bad_user.java" beforeDir="false" afterPath="$PROJECT_DIR$/HIH/src/programmers/Bad_user.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HIH/src/backjoon/programmers/Budget.java" beforeDir="false" afterPath="$PROJECT_DIR$/HIH/src/programmers/Budget.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HIH/src/backjoon/programmers/Crane_game.java" beforeDir="false" afterPath="$PROJECT_DIR$/HIH/src/programmers/Crane_game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HIH/src/backjoon/programmers/Eng_game.java" beforeDir="false" afterPath="$PROJECT_DIR$/HIH/src/programmers/Eng_game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HIH/src/backjoon/programmers/Num_game.java" beforeDir="false" afterPath="$PROJECT_DIR$/HIH/src/programmers/Num_game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HIH/src/backjoon/programmers/Skill_tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/HIH/src/programmers/Skill_tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HIH/src/backjoon/programmers/Tuple.java" beforeDir="false" afterPath="$PROJECT_DIR$/HIH/src/programmers/Tuple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JHS/src/programmers/kakao_intern_2019/ErrorUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/JHS/src/programmers/kakao_intern_2019/ErrorUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JHS/src/programmers/kakao_intern_2019/Tuple.java" beforeDir="false" afterPath="$PROJECT_DIR$/JHS/src/programmers/kakao_intern_2019/Tuple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JHS/programmers/summer_winter_coding/SkillTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JHS/programmers/summer_winter_coding/SkillTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JHS/test/VisitLength.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JHS/test/VisitLength.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,6 +134,7 @@
       <workItem from="1646819467142" duration="108000" />
       <workItem from="1651801188254" duration="95000" />
       <workItem from="1651829868172" duration="7000" />
+      <workItem from="1652081713266" duration="1000" />
     </task>
     <servers />
   </component>
