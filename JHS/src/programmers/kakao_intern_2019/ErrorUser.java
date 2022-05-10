@@ -9,9 +9,9 @@ public class ErrorUser {
     public static void main(String[] args) {
         String[] userId = {"frodo", "fradi", "crodo", "abc123", "frodoc"};
         String[] bannedId = {"fr*d*", "abc1**"};
-//        System.out.println(solution(userId, bannedId));
+        System.out.println(solution(userId, bannedId));
 
-        System.out.println(solution1(userId, bannedId));
+//        System.out.println(solution1(userId, bannedId));
     }
 
     public static int solution1(String[] user_id, String[] banned_id) {
@@ -41,6 +41,10 @@ public class ErrorUser {
         List<List<String>> bannedUser = new ArrayList<>();
         for (String banId : bannedId) {
             bannedUser.add(getList(banId, userId));
+        }
+
+        for (List<String> strings : bannedUser) {
+            System.out.println("strings = " + strings);
         }
         getResult(bannedUser, new HashSet<>(), 0);
         return result.size();

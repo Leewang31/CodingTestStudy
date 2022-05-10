@@ -1,25 +1,21 @@
 package programmers;
 import java.util.ArrayList;
 import java.util.Scanner;
+
 public class Num_game {
     public static void main(String[] args) {
-        Scanner sc=new Scanner(System.in);
-        ArrayList<Integer> a=new ArrayList<Integer>();
-        ArrayList<Integer> b=new ArrayList<Integer>();
-        int cnt=0;
-        int n=sc.nextInt();
-        for(int i=0;i<n;i++){
-            a.add(sc.nextInt());
-        }
-        for(int i=0;i<n;i++){
-            b.add(sc.nextInt());
-        }
-        for(int i=0;i<n;i++){
-            if(a.get(i)<b.get(i)){
+        int[] A = {5, 1, 3, 7};
+        int[] B = {2, 2, 6, 8};
+        System.out.println(solution(A, B));
+    }
+
+    public static int solution(int[] A, int[] B) {
+        int cnt = 0;
+        for(int i=0;i<A.length;i++){
+            if(A[i]<B[i]){
                 cnt++;
             }
-
         }
-        System.out.println(cnt);
+        return cnt;
     }
 }
