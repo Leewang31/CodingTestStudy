@@ -11,7 +11,7 @@ public class Tuple {
             String tuple=sc.nextLine();
             if(tuple=="-1") break;
             s.add(tuple);
-        }
+
         for(int i=0;i<s.size();i++) {
             for (int j = 0; j < s.get(i).length(); j++) {
                 if (!result.contains(String.valueOf(s.get(i).charAt(j)))) {

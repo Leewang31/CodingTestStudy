@@ -12,6 +12,7 @@ public class Skill_tree {
         while(true){
             skill_Trees.add(sc.nextLine());
 
+
             if(skill_Trees.get(i).equals("end")) break;
 
             System.out.println("i= "+i);

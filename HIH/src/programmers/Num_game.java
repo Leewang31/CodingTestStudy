@@ -1,4 +1,6 @@
 package programmers;
+import java.util.ArrayList;
+import java.util.Scanner;
 
 public class Num_game {
     public static void main(String[] args) {
