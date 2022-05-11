@@ -28,18 +28,18 @@ public class Keypad {
                 answer += "R";
             }
             else {
-                double leftHand = Math.pow( keyPad[number][0]-leftPoint[0], 2) + Math.pow(keyPad[number][1]-leftPoint[1], 2);
-                double rightHand = Math.pow( keyPad[number][0]-rightPoint[0], 2) + Math.pow(keyPad[number][1]-rightPoint[1], 2);
+                int leftHand = Math.abs(leftPoint[0] - keyPad[number][0]) + Math.abs(leftPoint[1] - keyPad[number][1]);
+                int rightHand = Math.abs(rightPoint[0] - keyPad[number][0]) + Math.abs(rightPoint[1] - keyPad[number][1]);
                 if(leftHand<rightHand){
                     leftPoint = keyPad[number];
                     answer += "L";
                 }
-                else if(rightHand<leftHand){
+                else if(leftHand > rightHand){
                     rightPoint = keyPad[number];
                     answer += "R";
                 }
                 else {
-                    if(hand == "right"){
+                    if(hand.equals("right")){
                         rightPoint = keyPad[number];
                         answer += "R";
                     }

@@ -16,20 +16,17 @@ public class MaximizeFormulas {
     };
     public static void main(String[] args) {
         String expression="100-200*300-500+20";
-        String[] arrSt = expression.split("\\*|\\+|-" );
+        String[] arrSt = expression.split("[*|+|-]" );
 
-        for (int i =0 ; i <arrSt.length;i++){
-            number.add(arrSt[i]);
-        }
+        StringBuilder sb = new StringBuilder();
         for (int i =0 ; i<expression.length(); i++){
-            if(expression.charAt(i)=='*'){
-                operator.add('*');
-            }
-            else if(expression.charAt(i)=='+'){
-                operator.add('+');
-            }
-            else if(expression.charAt(i)=='-'){
-                operator.add('-');
+            char oper = expression.charAt(i);
+            if (oper == '*' || oper == '+' || oper == '-') {
+                operator.add(oper);
+                number.add(sb.toString());
+                sb = new StringBuilder();
+            } else {
+                sb.append(oper);
             }
         }
         for (int i = 0;i<number.size();i++){

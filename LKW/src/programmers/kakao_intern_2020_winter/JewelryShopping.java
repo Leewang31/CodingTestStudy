@@ -1,11 +1,12 @@
 package programmers.kakao_intern_2020_winter;
 
+import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Set;
 
 public class JewelryShopping {
     public static void main(String[] args) {
-        String[] gems = {"AA", "AB", "AC", "AA", "AC"};
+        String[] gems = {"A","B","B","B","B","B","B","C","B","A"};
         int [] arr = solution(gems);
         System.out.println(arr[0]+", "+arr[1]);
     }

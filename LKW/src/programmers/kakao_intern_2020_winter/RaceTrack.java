@@ -31,7 +31,7 @@ public class RaceTrack {
         } else if (row == 3 && col == 3) {
             MIN = Math.min(MIN, (straight * straightPay + corner * cornerPay));
         }
-        return false;
+        return true;
     }
 }
 
