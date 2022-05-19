@@ -6,22 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="14177674-91e4-4d83-97be-f3a28f44b4d1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HIH/src/programmers/Expression.java" beforeDir="false" afterPath="$PROJECT_DIR$/HIH/src/programmers/Expression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HIH/src/programmers/Keypad.java" beforeDir="false" afterPath="$PROJECT_DIR$/HIH/src/programmers/Keypad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HIH/src/programmers/Shopping.java" beforeDir="false" afterPath="$PROJECT_DIR$/HIH/src/programmers/Shopping.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HIH/src/programmers/Tuple.java" beforeDir="false" afterPath="$PROJECT_DIR$/HIH/src/programmers/Tuple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JHS/src/programmers/kakao_intern_2020/RaceRoad.java" beforeDir="false" afterPath="$PROJECT_DIR$/JHS/src/programmers/kakao_intern_2020/RaceRoad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LKW/src/programmers/kakao_intern_2020_winter/JewelryShopping.java" beforeDir="false" afterPath="$PROJECT_DIR$/LKW/src/programmers/kakao_intern_2020_winter/JewelryShopping.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LKW/src/programmers/kakao_intern_2020_winter/Keypad.java" beforeDir="false" afterPath="$PROJECT_DIR$/LKW/src/programmers/kakao_intern_2020_winter/Keypad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LKW/src/programmers/kakao_intern_2020_winter/MaximizeFormulas.java" beforeDir="false" afterPath="$PROJECT_DIR$/LKW/src/programmers/kakao_intern_2020_winter/MaximizeFormulas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LKW/src/programmers/kakao_intern_2020_winter/RaceTrack.java" beforeDir="false" afterPath="$PROJECT_DIR$/LKW/src/programmers/kakao_intern_2020_winter/RaceTrack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HIH/programmers/Budget.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HIH/programmers/Budget.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HIH/programmers/Eng_game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HIH/programmers/Eng_game.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HIH/programmers/Num_game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HIH/programmers/Num_game.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HIH/programmers/Skill_tree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HIH/programmers/Skill_tree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JHS/programmers/kakao_intern_2019/HotelRoomAssign.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JHS/programmers/kakao_intern_2019/HotelRoomAssign.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JHS/test/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JHS/test/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LKW/programmers/summer_winter_coding_2018/Budget.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LKW/programmers/summer_winter_coding_2018/Budget.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LKW/src/programmers/kakao_blind_2021/IdRecommendation.java" beforeDir="false" afterPath="$PROJECT_DIR$/LKW/src/programmers/kakao_blind_2021/IdRecommendation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LKW/src/programmers/kakao_blind_2021/MenuRenewal.java" beforeDir="false" afterPath="$PROJECT_DIR$/LKW/src/programmers/kakao_blind_2021/MenuRenewal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +40,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="$PROJECT_DIR$/JHS/src/test/InternSecond.java&#10;C:/Code/Java/CodingTestStudy/JHS/src/test/InternThird.java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../SenierProject" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Kotlin/studyKotlin" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -69,13 +55,13 @@
       <recent name="backjoon.dp" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Shopping">
-    <configuration name="CaveTravel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.kakao_intern_2020.CaveTravel" />
+  <component name="RunManager" selected="Application.AddAds">
+    <configuration name="AddAds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.kakao_blind_2021.AddAds" />
       <module name="JHS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programmers.kakao_intern_2020.*" />
+          <option name="PATTERN" value="programmers.kakao_blind_2021.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GemsShopping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.kakao_intern_2020.GemsShopping" />
+    <configuration name="MenuRenewal (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.kakao_blind_2021.MenuRenewal" />
       <module name="JHS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programmers.kakao_intern_2020.*" />
+          <option name="PATTERN" value="programmers.kakao_blind_2021.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Keypad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.kakao_intern_2020_winter.Keypad" />
+    <configuration name="MenuRenewal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.kakao_blind_2021.MenuRenewal" />
       <module name="LKW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programmers.kakao_intern_2020_winter.*" />
+          <option name="PATTERN" value="programmers.kakao_blind_2021.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,25 +95,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RaceTrack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.kakao_intern_2020_winter.RaceTrack" />
+    <configuration name="RankingSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.kakao_blind_2021.RankingSearch" />
+      <module name="JHS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmers.kakao_blind_2021.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SharedTaxiFare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.kakao_blind_2021.SharedTaxiFare" />
       <module name="LKW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programmers.kakao_intern_2020_winter.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Shopping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.Shopping" />
-      <module name="HIH" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programmers.*" />
+          <option name="PATTERN" value="programmers.kakao_blind_2021.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Shopping" />
-        <item itemvalue="Application.RaceTrack" />
-        <item itemvalue="Application.Keypad" />
-        <item itemvalue="Application.CaveTravel" />
-        <item itemvalue="Application.GemsShopping" />
+        <item itemvalue="Application.AddAds" />
+        <item itemvalue="Application.SharedTaxiFare" />
+        <item itemvalue="Application.RankingSearch" />
+        <item itemvalue="Application.MenuRenewal (1)" />
+        <item itemvalue="Application.MenuRenewal" />
       </list>
     </recent_temporary>
   </component>
@@ -162,6 +148,8 @@
       <workItem from="1652194294451" duration="2804000" />
       <workItem from="1652230882424" duration="10326000" />
       <workItem from="1652242729261" duration="28000" />
+      <workItem from="1652835375684" duration="6335000" />
+      <workItem from="1652924392484" duration="14000" />
     </task>
     <servers />
   </component>

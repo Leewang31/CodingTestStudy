@@ -4,8 +4,8 @@ import java.util.*;
 
 public class MenuRenewal {
     public static void main(String[] args) {
-        String[] order = {"ABCFG", "AC", "CDE", "ACDE", "BCFG", "ACDEH"};
-        int[] course = {2, 3, 4};
+        String[] order = {"ABCDE", "AB", "CD", "ADE", "XYZ", "XYZ", "ACD"};
+        int[] course = {2, 3, 5};
         System.out.println(Arrays.toString(solution(order, course)));
     }
 
