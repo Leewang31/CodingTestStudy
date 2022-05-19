@@ -15,7 +15,8 @@
 |7주차|04.13~04.19|프로그래머스 4문제|![status][DONE]|
 |9주차|04.27~05.04|프로그래머스 5문제|![status][DONE]|
 |10주차|05.05~05.11|프로그래머스 5문제|![status][DONE]|
-|11주차|05.12~05.18|프로그래머스 5문제|![status][DOING]|
+|11주차|05.12~05.18|프로그래머스 5문제|![status][DONE]|
+|12주차|05.19~05.25|프로그래머스 4문제|![status][DOING]|
 
 ## ✅ 주차별 풀이 문제
 |주차|문제|출처|난이도|
@@ -29,7 +30,8 @@
 |7주차|~~예산 스킬트리 영어끝말잇기 숫자게임~~|프로그래머스 섬머코딩 2018|level1...level3|
 |9주차|~~크레인 인형뽑기게임, 튜플, 불량사용자, 징검다리건너기, 호텔방배정~~|2019 카카오 개발자 겨울 인턴십|level1...level4|
 |10주차|~~키패드 누르기, 수식 최대화, 보석 쇼핑, 경주로 건설, 동굴 탐험~~|2020 카카오 개발자 겨울 인턴십|level1...level4|
-|11주차|신규 아이디 추천, 메뉴 리뉴얼, 순위 검색, 합승 택시 요금, 광고 삽입|2021 카카오 Blind Recruitment|level1...level3|
+|11주차|~~신규 아이디 추천, 메뉴 리뉴얼, 순위 검색, 합승 택시 요금, 광고 삽입~~|2021 카카오 Blind Recruitment|level1...level3|
+|12주차|문자열 압축, 괄호 변환, 자물쇠워 열쇠, 가사 검색|2020 카카오 Blind Recruitment|level2...level4|
 
 
 ## ✅ 협업 툴
@@ -70,7 +72,7 @@
             <br />
             <sub><b>HongSeok</b>
             <br>
-            <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/48" />
+            <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/53" />
             </sub>
         </a>
         <br/>
@@ -83,7 +85,7 @@
             <br />
             <sub><b>KiWang</b>
             <br>
-            <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/48" />
+            <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/53" />
             </sub>
         </a>
         <br/>
