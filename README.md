@@ -17,7 +17,7 @@
 |10주차|05.05~05.11|프로그래머스 5문제|![status][DONE]|
 |11주차|05.12~05.18|프로그래머스 5문제|![status][DONE]|
 |12주차|05.19~05.25|프로그래머스 4문제|![status][DONE]|
-|13주차|05.25~05.31|프로그래머스 3문제|![status][DOING]|
+|13주차|05.25~05.31|프로그래머스 3문제|![status][DONE]|
 
 ## ✅ 주차별 풀이 문제
 |주차|문제|출처|난이도|
@@ -33,7 +33,7 @@
 |10주차|~~키패드 누르기, 수식 최대화, 보석 쇼핑, 경주로 건설, 동굴 탐험~~|2020 카카오 개발자 겨울 인턴십|level1...level4|
 |11주차|~~신규 아이디 추천, 메뉴 리뉴얼, 순위 검색, 합승 택시 요금, 광고 삽입~~|2021 카카오 Blind Recruitment|level1...level3|
 |12주차|~~문자열 압축, 괄호 변환, 자물쇠워 열쇠, 가사 검색~~|2020 카카오 Blind Recruitment|level2...level4|
-|13주차|아이템줍기, 교점에 별만들기, 전력망을 둘로 나누기|위클리 챌린지|level2...level3|
+|13주차|~~아이템줍기, 교점에 별만들기, 전력망을 둘로 나누기~~|위클리 챌린지|level2...level3|
 
 
 ## ✅ 협업 툴
@@ -74,7 +74,7 @@
             <br />
             <sub><b>HongSeok</b>
             <br>
-            <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/57" />
+            <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/100" />
             </sub>
         </a>
         <br/>
@@ -87,7 +87,7 @@
             <br />
             <sub><b>KiWang</b>
             <br>
-            <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/57" />
+            <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/100" />
             </sub>
         </a>
         <br/>
